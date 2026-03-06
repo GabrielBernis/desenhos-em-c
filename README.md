@@ -1,2 +1,2 @@
-# desenhos-em-c
-criacao de imagens utlizando a linguagem c 
+# arte-em-c
+criacao de ascii-art utlizando a linguagem c 
