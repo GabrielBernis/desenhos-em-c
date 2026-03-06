@@ -6,4 +6,4 @@ realizados por mim durante meus estudos de programação em C.
 ## Autor
 
 Gabriel Bernis
-Estudante interessado em Data Science
+Estudante de Data Science
